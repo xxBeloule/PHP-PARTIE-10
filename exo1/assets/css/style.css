@@ -1,0 +1,36 @@
+H1 {
+  text-align: center;
+}
+.background {
+  padding: 20px;
+  background: orange;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin:20px;
+  text-align: center;
+  border-radius: 200px 200px 200px 200px;
+  border: 2px dashed white;
+}
+li {
+  padding: 8px;
+}
+.background2 {
+  padding: 20px;
+  background: lightgray;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top:20px;
+  text-align: center;
+  border-radius: 20px 20px 20px 20px;
+  border: 2px solid black;
+}
+label, input {
+  display:  flex;
+  justify-content: center;
+  width: 50%;
+  margin:auto;
+}
+.submit {
+  width: auto;
+  float: right;
+}
